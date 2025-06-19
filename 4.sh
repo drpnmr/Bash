@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 planet_name="${1,,}"
 
